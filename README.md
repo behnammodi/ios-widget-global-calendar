@@ -8,7 +8,7 @@ Global Calendar iOS Widget represents US English (en-US), British English (en-GB
 
 ## How Use
 
-1- Install Scriptable App from App Store https://apps.apple.com/us/app/scriptable/id1405459188?uo=4
+1- Install Scriptable App from App Store https://apps.apple.com/us/app/scriptable/id1405459188
 
 2- Open Scriptable and Add new script
 
