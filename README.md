@@ -20,4 +20,5 @@ The Global Calendar iOS Widget represents the US English (en-US), British Englis
 
 ## How change calendar type
 You can change the calendar type by passing a widget parameter. For example, to use the Arabic calendar, you must send `ar-EG`.
+
 ![Edit Widget](https://user-images.githubusercontent.com/1549069/98928669-506c7180-24ef-11eb-8f43-a931e7a0f3fa.png)
