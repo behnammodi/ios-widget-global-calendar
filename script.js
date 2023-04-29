@@ -1,3 +1,7 @@
+/*
+https://github.com/behnammodi/ios-widget-global-calendar
+*/
+
 const LOCALE = args.widgetParameter || "fa-ir";
 
 const COLOR_BACKGROUND = Color.dynamic(
